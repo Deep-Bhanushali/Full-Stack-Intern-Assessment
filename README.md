@@ -1,4 +1,4 @@
-ull Stack Intern Assessment 🚀
+Full Stack Intern Assessment 🚀
 
 A full-stack web application built as part of an internship assessment. The project includes a backend (Node.js, Express, Prisma, MySQL) and a frontend (React, TypeScript, React Router) to manage Users, Stores, and Ratings.
 
